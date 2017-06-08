@@ -1,5 +1,7 @@
 # kmsdecrypt
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/dwtechnologies/kmsdecrypt)](https://goreportcard.com/report/github.com/dwtechnologies/kmsdecrypt)
+
 This package can be used to quickly decrypt one or more strings using AWS KMS.
 It also supports decrypting ENV variables automatically or based on ENV Key name.
 
